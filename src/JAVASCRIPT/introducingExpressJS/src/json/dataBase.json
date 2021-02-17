@@ -1,0 +1,25 @@
+{
+
+    "users": [{
+        "login": "adro",
+        "password": "123",
+        "token": "b203b4072be778bd95c1219ac8b9a614c7ca3b9f"
+    }],
+
+    "customers": [{
+            "id": 1,
+            "email": "adro@test.com",
+            "nome": "adro"
+        },
+        {
+            "id": 2,
+            "email": "vino@test.com",
+            "nome": "vino"
+        },
+        {
+            "id": 3,
+            "email": "gabo@test.com",
+            "nome": "gabo"
+        }
+    ]
+}
